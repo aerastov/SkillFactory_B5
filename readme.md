@@ -13,7 +13,9 @@
 
 
 ## Установка и запуск игры крестики-нолики
+Установить интерпретатор Python версии 3.8 или выше `https://www.python.org/`  
 Клонировать репозиторий `git clone https://github.com/aerastov/SkillFactory_B5.git`  
+
 В консоли перейти в папку проекта 
 Запустить игру: `python my_first_game.py`
 
